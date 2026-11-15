@@ -143,7 +143,7 @@ export const LandingPage: React.FC = () => {
                 {/* Centerpiece 3D Illustration Frame */}
                 <div className="relative rounded-3xl overflow-hidden shadow-elevated border border-charcoal/10 bg-white/60 backdrop-blur-sm group">
                   <img
-                    src="/hero-3d.jpg"
+                    src="/hero-3d.webp"
                     alt="EcoHelp 3D Business Model Architecture — Connecting Businesses, Digital Marketplace, Buyers, and Sustainable Circulation"
                     className="w-full h-auto object-cover transform group-hover:scale-[1.02] transition-transform duration-700"
                   />
